@@ -1,0 +1,58 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            76:46:16:dd:de:dc:f2:50:b4:1f:89:cb:89:be:ef:6c:d4:0d:52:a9
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = PK, ST = Pakistan, L = Karachi, O = FAST-NUCES, CN = FAST-NU Root CA
+        Validity
+            Not Before: Nov 14 10:27:51 2025 GMT
+            Not After : Nov 14 10:27:51 2026 GMT
+        Subject: C = PK, ST = Pakistan, L = Karachi, O = FAST-NUCES, CN = client.local
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:bb:27:51:0f:37:d3:6a:7e:ab:1f:e6:60:53:6f:
+                    d1:d9:5e:25:4c:30:b0:58:59:d5:47:b8:19:eb:7e:
+                    18:39:b9:90:3d:cf:5e:db:14:d6:72:f0:c5:15:a8:
+                    b8:1c:f0:5d:e0:35:d1:b1:13:26:ec:59:79:66:9b:
+                    28:01:8f:52:a8:f2:99:27:b2:3a:03:63:43:68:66:
+                    97:e0:73:15:a5:22:c4:16:9c:83:c9:40:09:2e:97:
+                    65:51:c5:03:0f:9c:e2:e7:3a:44:7c:e5:17:cb:82:
+                    7f:53:a7:cd:4a:52:a9:11:fa:fe:a5:5c:4f:eb:12:
+                    84:7a:cb:b2:e9:df:7c:e2:7f:b0:6b:08:17:f2:9c:
+                    84:95:d4:8b:4e:54:24:aa:be:9e:25:f4:80:79:41:
+                    44:57:80:cc:1b:d8:db:80:6b:19:dc:22:1c:0b:16:
+                    9a:4a:7a:8d:3a:a0:08:2d:cd:88:e8:b7:46:f3:5e:
+                    11:fd:81:b3:11:bc:84:83:ed:a3:da:2b:13:e6:29:
+                    3a:d6:dd:f8:5b:73:c6:31:61:b2:b1:0d:5d:4a:21:
+                    d4:a6:c2:f8:0a:77:65:18:1f:bb:0e:1e:35:b3:a0:
+                    59:4a:57:60:6f:2e:d4:ec:e5:3e:d1:a4:ad:bd:3c:
+                    35:61:07:1e:d7:f1:5b:a4:da:c5:b7:41:c9:c8:27:
+                    c5:e9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: 
+                DNS:client.local
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Key Usage: critical
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        55:04:63:aa:6f:22:b0:f1:f3:a3:44:4b:7c:48:5d:59:c1:34:
+        69:2b:5a:22:bd:a5:44:0d:df:58:17:18:78:82:1d:67:2d:95:
+        91:dc:5d:3a:e7:4c:80:b5:4f:99:5a:ac:55:86:e1:c4:f3:6c:
+        bf:de:81:97:26:8f:e9:ba:29:fd:c0:e2:41:bb:e9:17:a3:fc:
+        7e:be:ba:99:5e:3a:d4:c8:08:37:1a:e9:33:df:7a:59:fe:75:
+        1a:57:64:22:d9:2a:3d:9a:c3:71:eb:dd:91:75:de:54:93:ff:
+        37:fe:1d:76:27:a6:e5:50:3c:92:d4:c0:cf:f4:26:2c:40:d3:
+        ba:0f:f1:f6:c0:17:c0:64:9a:b7:d3:29:05:96:f0:45:6d:e4:
+        61:61:f6:b2:75:ff:3b:24:47:5e:ec:44:93:1d:de:e4:89:db:
+        be:19:2b:b4:43:bf:16:d4:8c:1d:49:7a:62:b7:9a:9e:4a:f5:
+        62:29:d6:2c:9f:f2:be:12:3c:ae:c8:c4:b5:2a:92:dd:6d:ca:
+        aa:b1:5e:f8:db:b5:e3:3c:ca:b0:3d:5c:45:61:93:f6:61:00:
+        bc:7b:fe:57:c7:b9:c1:09:4e:3a:b6:30:46:78:1b:e9:be:4e:
+        09:5c:d8:a3:a0:60:5e:07:32:a2:83:73:23:0b:d2:b4:6a:94:
+        74:1a:2f:88
