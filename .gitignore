@@ -1,0 +1,49 @@
+# Secrets and sensitive files
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+certs/
+transcripts/
+*.log
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Wireshark captures (may contain sensitive data)
+*.pcap
+*.pcapng
+
+# Test files
+test_*.py
+*_test.py
+
